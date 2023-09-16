@@ -1,0 +1,51 @@
+.hero {
+    width: 40%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background: url("typing.jpg");
+    background-size: contain;
+  }
+  .te
+  {
+    position: relative;
+    left: 60px;
+    bottom: -90px;
+  }
+  .case{
+      background: url("1.jpg");
+      width:37%;
+      height: 400px;
+      float: right;
+      position: absolute;
+      top: 150px;
+      right: 0px;
+    
+    }
+    img{
+        height: 90px;
+        width: 100px;
+        bottom: 23px;
+        right: 420px;
+        position: absolute;
+    }
+    .custimg{
+        height: 90px;
+        width: 100px;
+        bottom: 95px;
+        right: 360px;
+        position: absolute;
+    }
+    .customimg {
+        height: 90px;
+        width: 100px;
+        bottom: 165px;
+        right: 290px;
+        position: absolute;
+    }
+    .cusimg {
+        height: 90px;
+        width: 100px;
+        bottom: 240px;
+        right: 210px;
+        position: absolute;
+    }
